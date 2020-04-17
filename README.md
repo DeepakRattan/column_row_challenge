@@ -1,4 +1,3 @@
-# columnrowchallenge
 
 # This project demonstrates the use of column,row and container for designing the following layout :
 
